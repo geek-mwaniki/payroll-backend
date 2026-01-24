@@ -1,3 +1,6 @@
+# Payroll backend - FastAPI project
+# DEBUG: force git change
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 
