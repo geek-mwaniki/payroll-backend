@@ -1,0 +1,38 @@
+payroll-backend/
+│
+├── docs/
+│   ├── index.html
+│   └── style.css
+│
+├── main.py
+├── README.md
+└── .gitignore
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background: #f4f6f8;
+  color: #333;
+}
+
+header {
+  background: #1f2933;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+section {
+  margin-top: 30px;
+}
+
+h2 {
+  color: #1f2933;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 0.9em;
+  color: #555;
+}
